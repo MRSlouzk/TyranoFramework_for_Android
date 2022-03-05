@@ -5,3 +5,5 @@
 # 使用教程
 官方教程: <https://shikemokumk.hateblo.jp/entry/2016/11/30/155036>   
 想要清楚明了的教程请见B站视频:
+
+## 需求:Intellij IDEA(最好是2020.3版)，Android SDK 11.0(API level:30)
